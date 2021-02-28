@@ -1,0 +1,23 @@
+[
+
+{
+  "username":"李斯",
+  "age":18,
+  "email":"3135135@qq.com"
+},
+{
+  "username":"张华",
+  "age":23,
+  "email":"41685135@qq.com"
+},
+{
+  "username":"刘星",
+  "age":16,
+  "email":"41685135@163.com"
+},
+{
+  "username":"胡东",
+  "age":16,
+  "email":"41685135@163.com"
+},
+]
